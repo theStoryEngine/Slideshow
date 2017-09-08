@@ -1,0 +1,22 @@
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\bin\Debug\gallery program.exe.config
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\bin\Debug\gallery program.exe
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\bin\Debug\gallery program.pdb
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery program.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery_program.Form1.resources
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery_program.Properties.Resources.resources
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery program.csproj.GenerateResource.Cache
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery program.exe
+C:\Users\Jupiter\Desktop\Ex_Files_UaR_OpenGL\Exercise Files\gallery program\gallery program\obj\Debug\gallery program.pdb
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\bin\Debug\gallery program.exe.config
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.exe
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.pdb
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\bin\Debug\gallery program.exe
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\bin\Debug\gallery program.pdb
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.csprojResolveAssemblyReference.cache
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery_program.gallery.resources
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery_program.Properties.Resources.resources
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.csproj.GenerateResource.Cache
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\bin\Debug\gallery program.exe.manifest
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\bin\Debug\gallery program.application
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.exe.manifest
+C:\Users\Jupiter\Desktop\progroms 1.0\gallery program\gallery program\obj\Debug\gallery program.application
